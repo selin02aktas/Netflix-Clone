@@ -1,7 +1,7 @@
 <h1>Netflix Clone </h1>
 
-Bu proje HTML ve CSS kullanılarak kodlanmıştır. 
+Bu Proje HTML ve CSS kullanılarak kodlanmıştır. 
 
 <h2>Screen Gift </h2>
 
-![](ekran.gif)
+![](net.git.mov)git
