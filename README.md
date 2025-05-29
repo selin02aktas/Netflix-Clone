@@ -6,3 +6,4 @@ Bu Proje HTML ve CSS kullanılarak kodlanmıştır.
 
 ![](net.git.mov)git
 # Netflix-Clone-
+# Netflix-Clone-2-
