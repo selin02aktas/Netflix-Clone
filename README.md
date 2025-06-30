@@ -1,10 +1,16 @@
-<h1>Netflix Clone </h1>
+# 🎬 Netflix Clone
 
-Bu Proje HTML ve CSS kullanılarak kodlanmıştır. 
+Bu proje, HTML ve CSS kullanarak geliştirilmiş basit bir **Netflix arayüzü klonudur**. Temel amaç, responsive tasarım ve modern arayüz yapıları üzerinde pratik yapmaktır.
+## 🚀 Özellikler
 
-<h2>Screen Gift </h2>
+- Netflix benzeri modern kullanıcı arayüzü
+- Duyarlı (responsive) tasarım
+- Sabit üst menü ve içerik kartları
+- Hover animasyon efektleri
 
-![](net.git.mov)git
-# Netflix-Clone-
-# Netflix-Clone-2-
-# Netflix-Clone-new
+## 🛠️ Kullanılan Teknolojiler
+
+- HTML5
+- CSS3
+- ## 📸 Ekran Kaydı
+- ![Uploading EkranKayd2025-06-3019.49.27-ezgif.com-video-to-gif-converter.gif…]()
