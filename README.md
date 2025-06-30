@@ -14,5 +14,15 @@ Bu proje, HTML ve CSS kullanarak geliştirilmiş basit bir **Netflix arayüzü k
 - CSS3
 - ## 📸 Ekran Kaydı
 ![EkranKayd2025-06-3019 49 27-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/85e483ad-1af0-4595-ba92-3daa8f38cf93)
+## 📬 İletişim
 
+Eğer proje hakkında öneri, geri bildirim ya da soru iletmek istersen benimle iletişime geçebilirsin:
+
+- E-posta: [sln26akts@gmail.com)
+- GitHub: [(https://github.com/selin02aktas)
+- LinkedIn: [(http://linkedin.com/in/selin-aktaş-a8957124a)
+
+---
+
+> Bu proje tamamen eğitim amaçlıdır.
 
